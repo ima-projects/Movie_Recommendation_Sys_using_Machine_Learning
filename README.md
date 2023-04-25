@@ -1,3 +1,4 @@
 # Movie Recommendation System using Machine Learning
-hello 
-## this
+```js
+function () { return "This code is highlighted as Javascript!"}
+```
