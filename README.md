@@ -2,8 +2,8 @@
 
 ## Table of Contents
 - [Business Problem](#business-problem)
-  * [Objective:](#objective)
-  * [Goal:](#goal)
+  * [Objective](#objective)
+  * [Goal](#goal)
 - [Data source](#data-source)
 - [Tech stack](#tech-stack)
 - [Quick Analysis of Recommender System Results](#quick-analysis-of-recommender-system-results)
@@ -17,9 +17,9 @@
 
 
 ## Business Problem
-### Objective
+### Objective:
 
-### Goal
+### Goal:
 
 ## Data source
 
