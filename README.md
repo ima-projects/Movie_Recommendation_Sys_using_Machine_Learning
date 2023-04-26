@@ -2,8 +2,8 @@
 
 ## Table of Contents
 - [Business Problem](#business-problem)
-  * [And a table of contents](#and-a-table-of-contents)
-  * [On the right](#on-the-right)
+  * [Objective](#objective)
+  * [Goal](#goal)
 - [Data source](#data-source)
 
 
@@ -11,6 +11,8 @@
 
 
 ## Business Problem
+### Objective
 
+### Goal
 
 ## Data source
