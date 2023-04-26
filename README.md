@@ -11,7 +11,7 @@
   * [Feature Selection and Importance](#feature-selection-and-importance)
   * [Insights and Recommendations Derived from Experimental Analysis](#insights-and-recommendations-derived-from-experimental-analysis)
   * [Limitations and Suggestions for Optimization of the Recommendation System](#limitations-and-suggestions-for-optimization-of-the-recommendation-system)
-- [Simplify Your Analysis: Open in *Google Colab* for Improved Readability]
+- [Simplify Your Analysis: Open in **Google Colab** for Improved Readability](#simplify-your-analysis-open-in-google-colab-for-improved-readability)
 
 
  
