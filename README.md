@@ -11,6 +11,7 @@
   * [Insights and Recommendations Derived from Experimental Analysis](#insights-and-recommendations-derived-from-experimental-analysis)
   * [Limitations and Suggestions for Optimization of the Recommendation System](#limitations-and-suggestions-for-optimization-of-the-recommendation-system)
 
+
  
 
 
@@ -26,6 +27,7 @@
 ## Data Source
 
 ## Tech Stack
+- Python (refer to requirement.txt for the packages used in this project)
 
 ## Quick Analysis of Recommender System Results
 ### Feature Selection and Importance
