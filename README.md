@@ -13,7 +13,9 @@ Building a movie recomendation system in Python where a user can provide a name 
   * [Feature Selection and Importance](#feature-selection-and-importance)
   * [Insights and Recommendations Derived from Experimental Analysis](#insights-and-recommendations-derived-from-experimental-analysis)
   * [Limitations and Suggestions for Optimization of the Recommendation System](#limitations-and-suggestions-for-optimization-of-the-recommendation-system)
-- [Simplify Your Analysis: Open in **Google Colab** for Improved Readability](#simplify-your-analysis-open-in-google-colab-for-improved-readability)
+- [Installation: Simplify Your Analysis](#installation-simplify-your-analysis)
+  * [Run in Google Colab - Open in **Google Colab** for Improved Readability](run-in-google-colab-open-in-googl-colab-for-improved-readability)
+  * [Run Locally in Jupyter Notebook](run-locally-in-jupyter-notebook]
 
 
  
@@ -52,8 +54,8 @@ Recommendation list generated after user input of: **iron man**
 ### Insights and Recommendations Derived from Experimental Analysis
 ### Limitations and Suggestions for Optimization of the Recommendation System
 
-## Simplify Your Analysis: Open in **Google Colab** for Improved Readability
-## Run in Google Colab
+## Installation: Simplify Your Analysis
+### Run in Google Colab - Open in **Google Colab** for Improved Readability
 1. Open your web browser and go to the Google Colab homepage at https://colab.research.google.com/.
 2. Click on "File" > "New notebook" to create a new Colab notebook.
 3. In the first cell of the notebook, enter the following code to clone the repository:
@@ -75,3 +77,6 @@ This will install all the packages listed in the "requirements.txt" file in the 
 8. Run the code cell by clicking on the "Play" button or by pressing "Shift+Enter".
 
 You can now start working with the project in Google Colab. You can open and modify files, run scripts, and execute commands as you would in a local environment.
+
+### Run Locally in Jupyter Notebook
+
