@@ -27,6 +27,7 @@ short one liner about what this project does
 ### Goal:
 
 ## Data Source
+[Kaggle data source containing movies and tv shows](https://www.kaggle.com/datasets/rachanakoniki/movies)
 
 ## Methods
 
