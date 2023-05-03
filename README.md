@@ -75,11 +75,7 @@ Recommendation list generated after user input of: **iron man**
 %cd Movie_Recommendation_Sys_using_Machine_Learning/
 ```
 6. Run the code cell by clicking on the "Play" button or by pressing "Shift+Enter".
-7. To install the dependencies required by the project, enter the following code in a new cell:
-```diff
-!pip install -r requirements.txt
-```
-This will install all the packages listed in the "requirements.txt" file in the project directory.
+7. Import dependencies e.g numpy, pandas, difflib and sklearn
 
 8. Run the code cell by clicking on the "Play" button or by pressing "Shift+Enter".
 
@@ -99,11 +95,7 @@ git clone https://github.com/username/Movie_Recommendation_Sys_using_Machine_Lea
 ```bash
 cd Movie_Recommendation_Sys_using_Machine_Learning/
 ```
-6. To install the dependencies required by the project, enter the following command in the command prompt or terminal:
-```
-pip install -r requirements.txt
-```
-This will install all the packages listed in the "requirements.txt" file in the project directory.
+6. Import or install dependencies e.g numpy, pandas, difflib and sklearn
 
 7. Run the Jupyter notebook server by entering the following command in the command prompt or terminal:
 ```
