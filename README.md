@@ -41,6 +41,7 @@ This will produce results that should be able to provide users with more accurat
 
 ## Tech Stack
 - Python (refer to requirement.txt for the packages used in this project)
+- Google Colab
 
 ## Quick Analysis of Recommender System Results
 Recommendation list generated after user input of: **iron man**
