@@ -79,4 +79,32 @@ This will install all the packages listed in the "requirements.txt" file in the 
 You can now start working with the project in Google Colab. You can open and modify files, run scripts, and execute commands as you would in a local environment.
 
 ### Run Locally in Jupyter Notebook
+1. Open your web browser and go to the Jupyter website at https://jupyter.org/.
+2. Click on "Install" to access the installation instructions for Jupyter notebooks. Follow the instructions for your operating system to install Jupyter on your local machine.
+3. Once Jupyter is installed, open a command prompt or terminal and navigate to the directory where you want to store your notebook files.
+4. Enter the following command to clone the repository:
+```bash
+git clone https://github.com/username/Movie_Recommendation_Sys_using_Machine_Learning.git
+```
+5. Navigate to the cloned repository folder by entering the following command in the command prompt or terminal to ensure you're in the correct folder:
+```bash
+cd Movie_Recommendation_Sys_using_Machine_Learning/
+```
+6. To install the dependencies required by the project, enter the following command in the command prompt or terminal:
+```
+pip install -r requirements.txt
+```
+This will install all the packages listed in the "requirements.txt" file in the project directory.
+
+7. Run the Jupyter notebook server by entering the following command in the command prompt or terminal:
+```
+jupyter notebook
+```
+This will start the Jupyter notebook server and open a web browser window displaying the Jupyter dashboard.
+
+8. Click on the notebook file you want to run to open it in a new tab in the web browser.
+9. In the notebook, you can execute each cell by clicking on it and then clicking on the "Run" button in the toolbar, or by pressing "Shift+Enter".
+10. You can modify the notebook code and execute it as you see fit.
+
+
 
