@@ -45,7 +45,8 @@ This will produce results that should be able to provide users with more accurat
 
 ## Quick Analysis of Recommender System Results
 Recommendation list after user input of: iron man
-[movie rec](img-movrec.png)
+<img src="./img-movrec.png">
+
 ### Feature Selection and Importance
 ### Insights and Recommendations Derived from Experimental Analysis
 ### Limitations and Suggestions for Optimization of the Recommendation System
