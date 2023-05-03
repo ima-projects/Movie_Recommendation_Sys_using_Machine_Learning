@@ -78,6 +78,8 @@ This will install all the packages listed in the "requirements.txt" file in the 
 
 You can now start working with the project in Google Colab. You can open and modify files, run scripts, and execute commands as you would in a local environment.
 
+
+
 ### Run Locally in Jupyter Notebook
 1. Open your web browser and go to the Jupyter website at https://jupyter.org/.
 2. Click on "Install" to access the installation instructions for Jupyter notebooks. Follow the instructions for your operating system to install Jupyter on your local machine.
