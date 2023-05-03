@@ -58,6 +58,19 @@ Recommendation list generated after user input of: **iron man**
 2. Click on "File" > "New notebook" to create a new Colab notebook.
 3. In the first cell of the notebook, enter the following code to clone the repository:
 ```bash
-!git clone https://github.com/username/repo.git
+!git clone https://github.com/ima-projects/Movie_Recommendation_Sys_using_Machine_Learning.git
 ```
+4. Run the code cell by clicking on the "Play" button or by pressing "Shift+Enter".
+5. Once the repository has been cloned, navigate to the cloned repository folder by entering the following code in a new cell to ensure you are in the correct folder:
+```shell
+%cd Movie_Recommendation_Sys_using_Machine_Learning/
+```
+6. Run the code cell by clicking on the "Play" button or by pressing "Shift+Enter".
+7. To install the dependencies required by the project, enter the following code in a new cell:
+```diff
+!pip install -r requirements.txt
+```
+This will install all the packages listed in the "requirements.txt" file in the project directory.
+8. Run the code cell by clicking on the "Play" button or by pressing "Shift+Enter".
 
+You can now start working with the project in Google Colab. You can open and modify files, run scripts, and execute commands as you would in a local environment.
