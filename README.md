@@ -24,7 +24,15 @@ Building a movie recomendation system in Python where a user can provide a name 
 
 ## Business Problem
 ### Objective:
+ABC Streaming Service is a popular platform for streaming movies and TV shows. In order to improve their user experience and increase customer retention, ABC Streaming Service wants to develop a movie recommendation system that helps users discover new movies they will enjoy. However, traditional recommendation systems based solely on user ratings and movie genres are not providing sufficiently personalized recommendations. 
+
 ### Goal:
+To solve this problem, the goal of this project is to develop a movie recommendation system that incorporates a unique approach to movie analysis, such as using keyword similarity for sentiment analysis of user reviews, in addition to traditional data sources.
+
+The recommendation system will synthesise the fundamental principles of data analysis and data science, including:
+* How to carry out data collection and pre-processing of various data sources, including user ratings, movie metadata, and other sources of movie information. 
+* Create a system using cosine similarity to find movies that are similar to each other based on their features, such as the genre, keywords, tagline, cast and director. 
+* Produce results that should be able to provide users with more accurate and diverse recommendations, leading to increased user engagement and satisfaction. This in turn will drive higher retention rates and reduce churn leading to increased revenue for the upcoming quarter.
 
 ## Data Source
 [Kaggle data source containing movies and tv shows](https://www.kaggle.com/datasets/rachanakoniki/movies)
