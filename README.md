@@ -18,10 +18,6 @@ Building a movie recomendation system in Python where a user can provide a name 
   * [Run Locally in Jupyter Notebook](#run-locally-in-jupyter-notebook)
 
 
- 
-*get keywords in an build seo value
-
-`hello`
 
 
 ## Business Problem
