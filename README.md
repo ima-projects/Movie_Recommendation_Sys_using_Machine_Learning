@@ -1,6 +1,6 @@
 # Movie Recommendation System using Machine Learning
 
-Building a movie recomendation system in Python where a user can provide a name of their favourite movie and the recommendation system will generate a list of movies based on their input.
+Building a content and popularity-based movie recomendation system in Python where a user can provide a name of their favourite movie and the recommendation system will generate a list of movies based on their input. This is similar to popular streaming recommendation systems used by Netflix and Prime Video. 
 
 ## Table of Contents
 - [Business Problem](#business-problem)
@@ -37,6 +37,7 @@ This will produce results that should be able to provide users with more accurat
 [Kaggle data source containing movies and tv shows](https://www.kaggle.com/datasets/rachanakoniki/movies)
 
 ## Methods
+- Exploratory data analysis
 
 ## Tech Stack
 - Python (refer to requirement.txt for the packages used in this project)
@@ -47,8 +48,17 @@ Recommendation list generated after user input of: **iron man**
 <img src="./img-movrec.png" alt="movie recs">
 
 ### Feature Selection and Importance
+- This is a content and popularity-based recommendation system. That is why it will incorporate features such as the movie title, cast, director, genre, description and theme. 
+- Textual data, such as words or sentences, cannot be directly processed by most machine learning algorithms, which typically require numerical inputs. Therefore, a process called feature extraction is used to convert the textual data into numerical values that can be used as input to these algorithms. Here the movies are converted into a vector.
+- After the user provides the input, the similarity confidence scores are used to generate a list of recommended movies for a user based on their preferences. The Cosine Similarity Algorithm is used to find the similarity between the vectors.
+- This results in a list of movies generated that can then be suggested to the user.
+
 ### Insights and Recommendations Derived from Experimental Analysis
+- Most of the movie suggestions in the data source contain more mainstream recommendations.
+
 ### Limitations and Suggestions for Optimization of the Recommendation System
+- Can add more movie sources in the future to compare popularity of movie, movie genre, etc. based on location. 
+- I can also do this for streaming platforms and provide more granular information on content or popularity of movie(s) based on results of user input and/or location. 
 
 ## Installation: Simplify Your Analysis
 ### Run in Google Colab
