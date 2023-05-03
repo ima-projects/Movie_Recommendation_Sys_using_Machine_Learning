@@ -15,7 +15,7 @@ Building a movie recomendation system in Python where a user can provide a name 
   * [Limitations and Suggestions for Optimization of the Recommendation System](#limitations-and-suggestions-for-optimization-of-the-recommendation-system)
 - [Installation: Simplify Your Analysis](#installation-simplify-your-analysis)
   * [Run in Google Colab - Open in **Google Colab** for Improved Readability](run-in-google-colab-open-in-googl-colab-for-improved-readability)
-  * [Run Locally in Jupyter Notebook](run-locally-in-jupyter-notebook]
+  * [Run Locally in Jupyter Notebook](run-locally-in-jupyter-notebook)
 
 
  
