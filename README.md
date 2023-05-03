@@ -55,7 +55,7 @@ Recommendation list generated after user input of: **iron man**
 ### Limitations and Suggestions for Optimization of the Recommendation System
 
 ## Installation: Simplify Your Analysis
-### Run in Google Colab - Open in **Google Colab** for Improved Readability
+### Run in Google Colab - Open in Google Colab for Improved Readability
 1. Open your web browser and go to the Google Colab homepage at https://colab.research.google.com/.
 2. Click on "File" > "New notebook" to create a new Colab notebook.
 3. In the first cell of the notebook, enter the following code to clone the repository:
