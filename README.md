@@ -50,7 +50,7 @@ Recommendation list generated after user input of: **iron man**
 
 ### Feature Selection and Importance
 - This is a content and popularity-based recommendation system. That is why it will incorporate features such as the movie title, cast, director, genre, description and theme. 
-- Textual data, such as words or sentences, cannot be directly processed by most machine learning algorithms, which typically require numerical inputs. Therefore, a process called feature extraction is used to convert the textual data into numerical values that can be used as input to these algorithms. Here the movies are converted into a vector.
+- Textual data, such as words or sentences, cannot be directly processed by most machine learning algorithms, which typically require numerical inputs. Therefore, a process called feature extraction is used to convert the textual data into numerical values that can be used as input to these algorithms. Here the movies are converted into vectors.
 - After the user provides the input, the similarity confidence scores are used to generate a list of recommended movies for a user based on their preferences. The Cosine Similarity Algorithm is used to find the similarity between the vectors.
 - This results in a list of movies generated that can then be suggested to the user.
 
