@@ -71,6 +71,7 @@ Recommendation list generated after user input of: **iron man**
 !pip install -r requirements.txt
 ```
 This will install all the packages listed in the "requirements.txt" file in the project directory.
+
 8. Run the code cell by clicking on the "Play" button or by pressing "Shift+Enter".
 
 You can now start working with the project in Google Colab. You can open and modify files, run scripts, and execute commands as you would in a local environment.
