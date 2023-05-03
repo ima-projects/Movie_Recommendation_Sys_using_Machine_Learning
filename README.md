@@ -40,7 +40,7 @@ This will produce results that should be able to provide users with more accurat
 - Exploratory data analysis
 
 ## Tech Stack
-- Python (in place of a requirement.txt, the four dependencies used are listed in the [Installation](#installation-simplify-your-analysis) section below)
+- Python (in place of a requirement.txt file, the four dependencies used are listed in the [Installation](#installation-simplify-your-analysis) section below)
 - Google Colab
 
 ## Quick Analysis of Recommender System Results
