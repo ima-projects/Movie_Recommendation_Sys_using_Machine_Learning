@@ -1,5 +1,7 @@
 # Movie Recommendation System using Machine Learning
 
+short one liner about what this project does
+
 ## Table of Contents
 - [Business Problem](#business-problem)
   * [Objective](#objective)
@@ -15,7 +17,7 @@
 
 
  
-
+*get keywords in an build seo value
 
 `hello`
 
