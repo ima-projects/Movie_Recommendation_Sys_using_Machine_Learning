@@ -1,6 +1,6 @@
 # Movie Recommendation System using Machine Learning
 
-short one liner about what this project does
+Building a movie recomendation system in Python where a user can provide a name of their favourite movie and the recommendation system will generate a list of movies based on their input.
 
 ## Table of Contents
 - [Business Problem](#business-problem)
